@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashirwad Singh
 ======================================================================================================================================
 
-Full-Stack web developer , Quant Finance enthusiast
+Full-Stack  developer , Quant Finance enthusiast
 ---------------------------------------------
 
-Hey, I'm Ashirwad Singh, Full-Stack web developer and computer science student passionate about AI/ML. Beyond coding, I dive into the exciting world of Quant Finance, applying computational skills to tackle financial challenges. When not in front of the screen, catch me Running, embracing the discipline, or on the track challenging myself to go the extra mile—literally and metaphorically. Let's connect and explore tech, finance, and sports! 🚀💻🥊
+Hey, I'm Ashirwad Singh, Full-Stack  developer and computer science student passionate about AI/ML. Beyond coding, I dive into the exciting world of Quant Finance, applying computational skills to tackle financial challenges. When not in front of the screen, catch me Running, embracing the discipline, or on the track challenging myself to go the extra mile—literally and metaphorically. Let's connect and explore tech, finance, and sports! 🚀💻🥊
 
 * 🌍  I'm based in BHOPAL
 * ✉️  You can contact me at [www.linkedin.com/in/ashirwad08singh](mailto:www.linkedin.com/in/ashirwad08singh)
