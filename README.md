@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ashirwad Singh</h1>
-<h3 align="center">I like learning new things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethan4582&label=Profile%20views&color=0e75b6&style=flat" alt="ethan4582" /> </p>
 
