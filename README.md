@@ -13,3 +13,4 @@ I’m deeply passionate about **problem solving**, **software development**, and
 - 📧 **Email**: singhashirwad2003@gmail.com
 - 💼 **LinkedIn**: [linkedin.com/in/ashirwad08singh](https://www.linkedin.com/in/ashirwad08singh/)
 - 🐦 **X (Twitter)**: [x.com/SinghAshir65848](https://x.com/SinghAshir65848)
+- 💻 **LeetCode**: [leetcode.com/u/Ethan038](https://leetcode.com/u/Ethan038/)
