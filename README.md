@@ -4,8 +4,8 @@
 
 📬 Let's connect if you're working on something exciting or just want to chat tech!
 
-🔗 Portfolio
-📧 Email
-💼 LinkedIn
-🐦 X (Twitter)
+🔗 Portfolio - https://portfolio-rose-iota-29.vercel.app/
+📧 Email -singhashirwad2003@gmail.com
+💼 LinkedIn - https://www.linkedin.com/in/ashirwad08singh/
+🐦 X (Twitter) - https://x.com/SinghAshir65848
 
