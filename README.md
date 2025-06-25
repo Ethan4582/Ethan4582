@@ -1,11 +1,15 @@
-👋 Hey there! I'm Ashirwad Singh, a B.Tech Computer Science student at VIT Bhopal University, India. I’m deeply passionate about problem solving, software development, and exploring the world of Web3 .
+# 👋 Hey there!
 
-🚀 On my portfolio, you'll find some of my favorite projects and coursework — built with curiosity, code, and caffeine.
+I'm **Ashirwad Singh**, a B.Tech Computer Science student at **VIT Bhopal University**, India.  
+I’m deeply passionate about **problem solving**, **software development**, and exploring the world of **Web3**.
 
-📬 Let's connect if you're working on something exciting or just want to chat tech!
+🚀 On my [portfolio](https://portfolio-rose-iota-29.vercel.app/), you'll find some of my favorite **projects and coursework** — built with curiosity, code, and caffeine.
 
-🔗 Portfolio - https://portfolio-rose-iota-29.vercel.app/
-📧 Email -singhashirwad2003@gmail.com
-💼 LinkedIn - https://www.linkedin.com/in/ashirwad08singh/
-🐦 X (Twitter) - https://x.com/SinghAshir65848
+---
 
+## 📬 Let's Connect!
+
+- 🔗 **Portfolio**: [portfolio-rose-iota-29.vercel.app](https://portfolio-rose-iota-29.vercel.app/)
+- 📧 **Email**: singhashirwad2003@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/ashirwad08singh](https://www.linkedin.com/in/ashirwad08singh/)
+- 🐦 **X (Twitter)**: [x.com/SinghAshir65848](https://x.com/SinghAshir65848)
