@@ -9,7 +9,7 @@ I’m deeply passionate about **problem solving**, **software development**, and
 
 ## 📬 Let's Connect!
 
-- 🔗 **Portfolio**: [portfolio-rose-iota-29.vercel.app](https://www.aashirwadsingh.site/)
+- 🔗 **Portfolio**: [aashirwadsingh.sitel.app](https://www.aashirwadsingh.site/)
 - 📧 **Email**: singhashirwad2003@gmail.com
 - 💼 **LinkedIn**: [linkedin.com/in/ashirwad08singh](https://www.linkedin.com/in/ashirwad08singh/)
 - 🐦 **X (Twitter)**: [x.com/SinghAshir65848](https://x.com/SinghAshir65848)
