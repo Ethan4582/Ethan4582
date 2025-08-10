@@ -9,7 +9,7 @@ I build fast, functional, and user-focused web experiences.
 
 ## 📬 Let's Connect!
 
-- 🔗 **Portfolio**: [aashirwadsingh.site](https://www.aashirwadsingh.site/)
+- 🔗 **Portfolio**: [aashirwadsingh.site](https://cv-pink-two.vercel.app/)
 - 📧 **Email**: singhashirwad2003@gmail.com
 - 💼 **LinkedIn**: [linkedin.com/in/ashirwad08singh](https://www.linkedin.com/in/ashirwad08singh/)
 - 🐦 **X (Twitter)**: [x.com/SinghAshir65848](https://x.com/SinghAshir65848)
