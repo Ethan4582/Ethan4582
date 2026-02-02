@@ -2,7 +2,7 @@
 I'm **Ashirwad Singh**, a B.Tech Computer Science student at **VIT Bhopal University**, India.  
 I build fast, functional, and user-focused web experiences.
 
-🚀 Check out my [portfolio](https://www.aashirwadsingh.site/) for more projects and coursework.
+🚀 Check out my [portfolio](https://ash-cv.vercel.app/) for more projects and coursework.
 
 ---
 
@@ -19,10 +19,6 @@ I build fast, functional, and user-focused web experiences.
 - **[LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)** – Chrome extension to automate LinkedIn profile data extraction
 - **[Multi-Threaded Proxy Server](https://github.com/Ethan4582/Multi-Threaded-Proxy-Server)** – HTTP proxy server in C with LRU cache and POSIX threading
 
-### 🎮 Interactive Apps
-- **[chess.com](https://github.com/Ethan4582/chess.com-)** – Real-time multiplayer chess platform with move history and spectator mode
-- **[Google Doc Clone](https://github.com/Ethan4582/Google-Doc-Clone)** – Real-time collaborative document editor
-- **[Dream House](https://github.com/Ethan4582/Dream-house)** – Property marketplace with listings, authentication, and messaging
 
 ### 🎨 Landing Pages & Templates
 - **[Mindly AI](https://github.com/Ethan4582/Mindly)** – AI course landing page template
@@ -32,11 +28,8 @@ I build fast, functional, and user-focused web experiences.
 - **[Nike Landing Page](https://github.com/Ethan4582/Nike_landing-Page)** – Modern Nike product showcase
 - **[StoreRate](https://github.com/Ethan4582/StoreRate)** – Store rating platform with role-based access control
 
----
 
-## 📬 Let's Connect!
-- 🔗 **Portfolio**: [aashirwadsingh.site](https://ash-cv.vercel.app/)
-- 📧 **Email**: singhashirwad2003@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/ashirwad08singh](https://www.linkedin.com/in/ashirwad08singh/)
-- 🐦 **X**: [x.com/SinghAshir65848](https://x.com/SinghAshir65848)
-- 💻 **LeetCode**: [leetcode.com/u/Ethan038](https://leetcode.com/u/Ethan038/)
+### 🎮 Interactive Apps
+- **[chess.com](https://github.com/Ethan4582/chess.com-)** – Real-time multiplayer chess platform with move history and spectator mode
+- **[Google Doc Clone](https://github.com/Ethan4582/Google-Doc-Clone)** – Real-time collaborative document editor
+- **[Dream House](https://github.com/Ethan4582/Dream-house)** – Property marketplace with listings, authentication, and messaging
