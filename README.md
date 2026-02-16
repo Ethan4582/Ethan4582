@@ -10,13 +10,14 @@ I build fast, functional, and user-focused web experiences.
 
 ### 🤖 AI & Productivity Tools
 - **[RepoSense](https://github.com/Ethan4582/RepoSense)** – Chat with any GitHub repo using RAG-powered AI (LangChain + Gemini)
-- **[zephyr-ai](https://github.com/Ethan4582/Gemini-AI-Chatbot)** – Modern Next.js chatbot with real-time streaming and code editing
+- **[LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)** – Chrome extension to automate LinkedIn profile data extraction
 - **[intellisaas](https://github.com/Ethan4582/intellisaas)** – AI-powered platform for article generation, image creation, and resume reviews
 - **[FocusTube](https://github.com/Ethan4582/FocusTube)** – Chrome extension to manage YouTube and reduce distractions
 
 ### 💻 Developer Tools
 - **[dev-rooms](https://github.com/Ethan4582/dev-rooms)** – Real-time collaborative coding with integrated video conferencing
-- **[LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)** – Chrome extension to automate LinkedIn profile data extraction
+- **[Cluster](https://github.com/Ethan4582/Cluster)** – Clean Kanban app with CRUD, filters, and activity tracking.
+- **[zephyr-ai](https://github.com/Ethan4582/Gemini-AI-Chatbot)** – Modern Next.js chatbot with real-time streaming and code editing
 - **[Multi-Threaded Proxy Server](https://github.com/Ethan4582/Multi-Threaded-Proxy-Server)** – HTTP proxy server in C with LRU cache and POSIX threading
 
 
