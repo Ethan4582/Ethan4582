@@ -1,8 +1,10 @@
-# 👋 Hey there!
-I'm **Ashirwad Singh**, a B.Tech Computer Science student at **VIT Bhopal University**, India.  
-I build fast, functional, and user-focused web experiences.
+## 👋 Hi, I'm Ashirwad Singh  
+I’m a **Full-Stack Developer** focused on building **clean, fast, and user-focused web experiences**.  
 
-🚀 Check out my [portfolio](https://ash-cv.vercel.app/) for more projects and coursework.
+Currently, I’m learning **design** so I can create more creative and high-converting landing pages.
+
+🚀 Check out my portfolio for projects, landing page templates:  
+🔗 [Visit My Portfolio](https://ash-cv.vercel.app/)
 
 ---
 
@@ -23,6 +25,7 @@ I build fast, functional, and user-focused web experiences.
 
 ### 🎨 Landing Pages & Templates
 - **[Mindly AI](https://github.com/Ethan4582/Mindly)** – AI course landing page template
+- **[Callclarity](https://github.com/Ethan4582/callclarity)** – AI course landing page template
 - **[Amber Media](https://github.com/Ethan4582/Amber-Media)** – Cinematic storytelling studio showcase
 - **[EldoraUI](https://github.com/Ethan4582/EldoraUI)** – SaaS UI component page template
 - **[Streamerzz](https://github.com/Ethan4582/Streamerzz)** – Animated landing page for streaming toolkit
