@@ -4,7 +4,7 @@ I’m a **Full-Stack Developer** focused on building **clean, fast, and user-foc
 Currently, I’m learning **design** so I can create more creative and high-converting landing pages.
 
 🚀 Check out my portfolio for projects, landing page templates:  
-🔗 [Portfolio](https://ash-cv.vercel.app/)
+🔗 [https://ash-cv.vercel.app/ ](https://ash-cv.vercel.app/)
 
 ---
 
