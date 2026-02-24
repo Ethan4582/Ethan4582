@@ -26,6 +26,7 @@ Currently, I’m learning **Design Engineering** so I can create more creative a
 ### 🎨 Landing Pages & Templates
 - **[Mindly AI](https://github.com/Ethan4582/Mindly)** – AI course landing page template
 - **[Callclarity](https://github.com/Ethan4582/callclarity)** – AI course landing page template
+- **[Astra](https://github.com/Ethan4582/Astra)** – Minimal Next.js portfolio with modern animations.
 - **[Amber Media](https://github.com/Ethan4582/Amber-Media)** – Cinematic storytelling studio showcase
 - **[EldoraUI](https://github.com/Ethan4582/EldoraUI)** – SaaS UI component page template
 - **[Streamerzz](https://github.com/Ethan4582/Streamerzz)** – Animated landing page for streaming toolkit
