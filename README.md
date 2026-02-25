@@ -1,10 +1,9 @@
 ## 👋 Hi, I'm Ashirwad Singh  
 I’m a **Full-Stack Developer** focused on building **clean, fast, and user-focused web experiences**.  
 
-Currently, I’m learning **Design Engineering** so I can create more creative and high-converting landing pages.
+ Check out my portfolio for projects and landing page templates:  [Portfolio](https://ash-cv.vercel.app/)
 
-🚀 Check out my portfolio for projects, landing page templates:  
-🔗 [https://ash-cv.vercel.app/ ](https://ash-cv.vercel.app/)
+Currently, I’m building [tae7lab](https://tae7.vercel.app/) — a curated library of high-performance, minimalist UI components for modern web applications — and have also created **9+ premium landing page templates** focused on performance and conversions.
 
 ---
 
