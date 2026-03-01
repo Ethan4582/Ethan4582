@@ -3,7 +3,6 @@ I’m a **Full-Stack Developer** focused on building **clean, fast, and user-foc
 
  Check out my portfolio for projects and landing page templates:  [Portfolio](https://ash-cv.vercel.app/)
 
-Currently, I’m building [tae7lab](https://tae7.vercel.app/) — a curated library of high-performance, minimalist UI components for modern web applications — and have also created **9+ premium landing page templates** focused on performance and conversions.
 
 ---
 
