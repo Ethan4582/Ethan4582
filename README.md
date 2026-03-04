@@ -13,7 +13,6 @@ Or see a live demo of projects: [Demo](https://t7labs-demo.pages.dev/)
 ### 🤖 AI & Productivity Tools
 - **[RepoSense](https://github.com/Ethan4582/RepoSense)** – Chat with any GitHub repo using RAG-powered AI (LangChain + Gemini)
 - **[LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)** – Chrome extension to automate LinkedIn profile data extraction
-- **[intellisaas](https://github.com/Ethan4582/intellisaas)** – AI-powered platform for article generation, image creation, and resume reviews
 - **[FocusTube](https://github.com/Ethan4582/FocusTube)** – Chrome extension to manage YouTube and reduce distractions
 
 ### 💻 Developer Tools
@@ -21,8 +20,7 @@ Or see a live demo of projects: [Demo](https://t7labs-demo.pages.dev/)
 - **[blog-t7labs](https://github.com/Ethan4582/blog-t7labs)** – A blog with modern UI components, templates, and frontend techniques.
 - **[Cluster](https://github.com/Ethan4582/Cluster)** – Clean Kanban app with CRUD, filters, and activity tracking.
 - **[demo-t7labs](https://github.com/Ethan4582/demo-t7labs)** – Next.js demo of components from @blog.t7labs.
-- **[zephyr-ai](https://github.com/Ethan4582/Gemini-AI-Chatbot)** – Modern Next.js chatbot with real-time streaming and code editing
-- **[Multi-Threaded Proxy Server](https://github.com/Ethan4582/Multi-Threaded-Proxy-Server)** – HTTP proxy server in C with LRU cache and POSIX threading
+
 
 
 ### 🎨 Landing Pages & Templates
@@ -39,5 +37,9 @@ Or see a live demo of projects: [Demo](https://t7labs-demo.pages.dev/)
 
 ### 🎮 Interactive Apps
 - **[chess.com](https://github.com/Ethan4582/chess.com-)** – Real-time multiplayer chess platform with move history and spectator mode
-- **[Google Doc Clone](https://github.com/Ethan4582/Google-Doc-Clone)** – Real-time collaborative document editor
+- **[zephyr-ai](https://github.com/Ethan4582/Gemini-AI-Chatbot)** – Modern Next.js chatbot with real-time streaming and code editing
+- **[intellisaas](https://github.com/Ethan4582/intellisaas)** – AI-powered platform for article generation, image creation, and resume reviews
 - **[Dream House](https://github.com/Ethan4582/Dream-house)** – Property marketplace with listings, authentication, and messaging
+- **[Multi-Threaded Proxy Server](https://github.com/Ethan4582/Multi-Threaded-Proxy-Server)** – HTTP proxy server in C with LRU cache and POSIX threading
+- **[Google Doc Clone](https://github.com/Ethan4582/Google-Doc-Clone)** – Real-time collaborative document editor
+
