@@ -4,7 +4,6 @@ I’m a **Full-Stack Developer** building **clean, fast, and user-focused web ex
 Check out my portfolio for projects and landing page templates: [Portfolio](https://ash-cv.vercel.app/)
 
 Explore my blog with published components and templates: [Blog](https://blog-t7labs.pages.dev/blog)
-
 Or see a live demo of projects: [Demo](https://t7labs-demo.pages.dev/)
 
 ---
@@ -19,7 +18,9 @@ Or see a live demo of projects: [Demo](https://t7labs-demo.pages.dev/)
 
 ### 💻 Developer Tools
 - **[dev-rooms](https://github.com/Ethan4582/dev-rooms)** – Real-time collaborative coding with integrated video conferencing
+- **[blog-t7labs](https://github.com/Ethan4582/blog-t7labs)** – A blog with modern UI components, templates, and frontend techniques.
 - **[Cluster](https://github.com/Ethan4582/Cluster)** – Clean Kanban app with CRUD, filters, and activity tracking.
+- **[demo-t7labs](https://github.com/Ethan4582/demo-t7labs)** – Next.js demo of components from @blog.t7labs.
 - **[zephyr-ai](https://github.com/Ethan4582/Gemini-AI-Chatbot)** – Modern Next.js chatbot with real-time streaming and code editing
 - **[Multi-Threaded Proxy Server](https://github.com/Ethan4582/Multi-Threaded-Proxy-Server)** – HTTP proxy server in C with LRU cache and POSIX threading
 
