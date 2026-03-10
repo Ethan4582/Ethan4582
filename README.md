@@ -25,7 +25,7 @@ Or see a live demo of projects: [Demo](https://t7labs-demo.pages.dev/)
 
 ### 🎨 Landing Pages & Templates
 - **[Mindly AI](https://github.com/Ethan4582/Mindly)** – AI course landing page template
-- **[Callclarity](https://github.com/Ethan4582/callclarity)** – AI course landing page template
+- **[Callclarity](https://github.com/Ethan4582/callclarity)** –AI support QA landing page template
 - **[Vibehouse](https://github.com/Ethan4582/vibehouse)** – A scroll‑powered collage gallery template for creative projects.
 - **[Astra](https://github.com/Ethan4582/Astra)** – Minimal Next.js portfolio with modern animations.
 - **[BuilderSignal](https://github.com/Ethan4582/BuilderSignal)** A premium personal brand template for founders building and sharing SaaS.
