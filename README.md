@@ -16,7 +16,7 @@ Or see a live demo of projects: [Demo](https://t7labs-demo.pages.dev/)
 - **[FocusTube](https://github.com/Ethan4582/FocusTube)** – Chrome extension to manage YouTube and reduce distractions
 
 ### 💻 Developer Tools
-- **[dev-rooms](https://github.com/Ethan4582/dev-rooms)** – Real-time collaborative coding with integrated video conferencing
+- **[dev-rooms](https://github.com/Ethan4582/dev-rooms)** – Real-time collaborative with integrated video conferencing
 - **[blog-t7labs](https://github.com/Ethan4582/blog-t7labs)** – A blog with modern UI components, templates, and frontend techniques.
 - **[Cluster](https://github.com/Ethan4582/Cluster)** – Clean Kanban app with CRUD, filters, and activity tracking.
 - **[demo-t7labs](https://github.com/Ethan4582/demo-t7labs)** – Next.js demo of components from @blog.t7labs.
