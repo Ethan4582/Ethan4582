@@ -37,7 +37,7 @@ Or see a live demo of projects: [Demo](https://t7labs-demo.pages.dev/)
 
 
 ### 🎮 Interactive Apps
-- **[chess.com](https://github.com/Ethan4582/chess.com-)** – Real-time multiplayer chess platform with move history and spectator mode
+- **[Blitzr](https://github.com/Ethan4582/Blitzr)** – A production-grade, real-time multiplayer chess platform. 
 - **[zephyr-ai](https://github.com/Ethan4582/Gemini-AI-Chatbot)** – Modern Next.js chatbot with real-time streaming and code editing
 - **[intellisaas](https://github.com/Ethan4582/intellisaas)** – AI-powered platform for article generation, image creation, and resume reviews
 - **[Dream House](https://github.com/Ethan4582/Dream-house)** – Property marketplace with listings, authentication, and messaging
