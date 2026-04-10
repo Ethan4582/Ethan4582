@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Ashirwad Singh
 I’m a **Full-Stack Developer** building **clean, fast, and user-focused web experiences**.
 
-Check out my portfolio for projects and landing page templates: [Portfolio](https://ash-cv.vercel.app/)
+Check out my portfolio for projects and landing page templates: [Portfolio](https://www.aash7.xyz/)
 
 Explore my blog with published components and templates: [Blog](https://blog-t7labs.pages.dev/blog)
 Or see a live demo of projects: [Demo](https://t7labs-demo.pages.dev/)
