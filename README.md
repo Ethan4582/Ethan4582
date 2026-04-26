@@ -1,8 +1,10 @@
 ## 👋 Hi, I'm Ashirwad Singh  
-I’m a **Full-Stack Developer** building **clean, fast, and user-focused web experiences**.  
-I built **[T7BLOCKS](https://t7blocks.xyz/gallery)**, a premium UI component library for developers who want agency-quality results.  
-Check out my portfolio for projects and landing page templates: [Portfolio](https://www.aash7.xyz/)
 
+I’m a **Full-Stack Developer** building **clean, fast, and user-focused web experiences**.  
+
+I built **[T7BLOCKS](https://t7blocks.xyz/gallery)** a premium UI component library for developers who want agency-quality results.  
+
+Check out my portfolio for projects and landing page templates: [Portfolio](https://www.aash7.xyz/)  
 ## 🛠️ Featured Projects
 - **[T7BLOCKS](https://github.com/Ethan4582/T7blocks)** -Ship premium landing pages faster with advanced UI components beyond the basics.
 - **[RepoSense](https://github.com/Ethan4582/RepoSense)** – Chat with any GitHub repo using RAG-powered AI (LangChain + Gemini)
