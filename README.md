@@ -1,21 +1,13 @@
-## 👋 Hi, I'm Ashirwad Singh
-I’m a **Full-Stack Developer** building **clean, fast, and user-focused web experiences**.
-
+## 👋 Hi, I'm Ashirwad Singh  
+I’m a **Full-Stack Developer** building **clean, fast, and user-focused web experiences**.  
+I built **[T7BLOCKS](https://t7blocks.xyz/gallery)**, a premium UI component library for developers who want agency-quality results.  
 Check out my portfolio for projects and landing page templates: [Portfolio](https://www.aash7.xyz/)
 
-Explore my blog with published components and templates: [Blog](https://blog-t7labs.pages.dev/blog)
-Or see a live demo of projects: [Demo](https://t7labs-demo.pages.dev/)
-
----
-
 ## 🛠️ Featured Projects
-
-### 🤖 AI & Productivity Tools
+- **[T7BLOCKS](https://github.com/Ethan4582/T7blocks)** -Ship premium landing pages faster with advanced UI components beyond the basics.
 - **[RepoSense](https://github.com/Ethan4582/RepoSense)** – Chat with any GitHub repo using RAG-powered AI (LangChain + Gemini)
-- **[LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)** – Chrome extension to automate LinkedIn profile data extraction
+- **[LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)** – Chrome extension to get unlimited search and data extraction
 - **[FocusTube](https://github.com/Ethan4582/FocusTube)** – Chrome extension to manage YouTube and reduce distractions
-
-### 💻 Developer Tools
 - **[dev-rooms](https://github.com/Ethan4582/dev-rooms)** – Real-time collaborative with integrated video conferencing
 - **[blog-t7labs](https://github.com/Ethan4582/blog-t7labs)** – A blog with modern UI components, templates, and frontend techniques.
 - **[Cluster](https://github.com/Ethan4582/Cluster)** – Clean Kanban app with CRUD, filters, and activity tracking.
