@@ -8,6 +8,7 @@ Check out my portfolio for projects and landing page templates: [Portfolio](http
 ## 🛠️ Featured Projects
 - **[T7BLOCKS](https://github.com/Ethan4582/T7blocks)** -Ship premium landing pages faster with advanced UI components beyond the basics.
 - **[RepoSense](https://github.com/Ethan4582/RepoSense)** – Chat with any GitHub repo using RAG-powered AI (LangChain + Gemini)
+- **[Blitzr](https://github.com/Ethan4582/Blitzr)** – A production-grade, real-time multiplayer chess platform. 
 - **[LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)** – Chrome extension to get unlimited search and data extraction
 - **[FocusTube](https://github.com/Ethan4582/FocusTube)** – Chrome extension to manage YouTube and reduce distractions
 - **[dev-rooms](https://github.com/Ethan4582/dev-rooms)** – Real-time collaborative with integrated video conferencing
@@ -31,7 +32,6 @@ Check out my portfolio for projects and landing page templates: [Portfolio](http
 
 
 ### 🎮 Interactive Apps
-- **[Blitzr](https://github.com/Ethan4582/Blitzr)** – A production-grade, real-time multiplayer chess platform. 
 - **[zephyr-ai](https://github.com/Ethan4582/Gemini-AI-Chatbot)** – Modern Next.js chatbot with real-time streaming and code editing
 - **[intellisaas](https://github.com/Ethan4582/intellisaas)** – AI-powered platform for article generation, image creation, and resume reviews
 - **[Dream House](https://github.com/Ethan4582/Dream-house)** – Property marketplace with listings, authentication, and messaging
