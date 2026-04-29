@@ -6,7 +6,7 @@ I built **[T7BLOCKS](https://t7blocks.xyz/gallery)** a premium UI component libr
 
 Check out my portfolio for projects and landing page templates: [Portfolio](https://www.aash7.xyz/)  
 ## 🛠️ Featured Projects
-- **[T7BLOCKS](https://github.com/Ethan4582/T7blocks)** -Ship premium landing pages faster with advanced UI components beyond the basics.
+- **[T7Blocks](https://github.com/Ethan4582/T7blocks)** -Ship premium landing pages faster with advanced UI components beyond the basics.
 - **[RepoSense](https://github.com/Ethan4582/RepoSense)** – Chat with any GitHub repo using RAG-powered AI (LangChain + Gemini)
 - **[Blitzr](https://github.com/Ethan4582/Blitzr)** – A production-grade, real-time multiplayer chess platform. 
 - **[LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)** – Chrome extension to get unlimited search and data extraction
