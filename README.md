@@ -16,8 +16,6 @@ Check out my portfolio for projects and landing page templates: [Portfolio](http
 - **[Cluster](https://github.com/Ethan4582/Cluster)** – Clean Kanban app with CRUD, filters, and activity tracking.
 - **[demo-t7labs](https://github.com/Ethan4582/demo-t7labs)** – Next.js demo of components from @blog.t7labs.
 
-
-
 ### 🎨 Landing Pages & Templates
 - **[Mindly AI](https://github.com/Ethan4582/Mindly)** – AI course landing page template
 - **[Callclarity](https://github.com/Ethan4582/callclarity)** –AI support QA landing page template
@@ -37,4 +35,7 @@ Check out my portfolio for projects and landing page templates: [Portfolio](http
 - **[Dream House](https://github.com/Ethan4582/Dream-house)** – Property marketplace with listings, authentication, and messaging
 - **[Multi-Threaded Proxy Server](https://github.com/Ethan4582/Multi-Threaded-Proxy-Server)** – HTTP proxy server in C with LRU cache and POSIX threading
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ethan4582&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
 
