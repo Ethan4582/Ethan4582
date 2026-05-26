@@ -10,6 +10,7 @@ Check out my portfolio for projects and landing page templates: [Portfolio](http
 - **[RepoSense](https://github.com/Ethan4582/RepoSense)** – Chat with any GitHub repo using RAG-powered AI (LangChain + Gemini)
 - **[Blitzr](https://github.com/Ethan4582/Blitzr)** – A production-grade, real-time multiplayer chess platform. 
 - **[LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)** – Chrome extension to get unlimited search and data extraction
+- **[t7.chat](https://github.com/Ethan4582/t7.chat)** – Real-time inference logging and observability for AI Chat applications. 
 - **[FocusTube](https://github.com/Ethan4582/FocusTube)** – Chrome extension to manage YouTube and reduce distractions
 - **[dev-rooms](https://github.com/Ethan4582/dev-rooms)** – Real-time collaborative with integrated video conferencing
 - **[blog-t7labs](https://github.com/Ethan4582/blog-t7labs)** – A blog with modern UI components, templates, and frontend techniques.
