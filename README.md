@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.aash7.xyz/" target="_blank">portfolio</a> •
   <a href="https://github.com/Ethan4582" target="_blank">github</a> •
-  <a href="mailto:ashirwad@example.com" target="_blank">email</a> •
+  <a href="mailto:singhashirwad2003@gmail.com" target="_blank">email</a> •
    <a href="https://www.linkedin.com/in/ashirwad08singh/" target="_blank">linkedin</a> •
    <a href="https://x.com/ashirwadsingh_" target="_blank">x</a>
 </p>
