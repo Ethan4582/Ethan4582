@@ -42,7 +42,12 @@
 
 * **[Multi-Threaded Proxy Server](https://github.com/Ethan4582/Multi-Threaded-Proxy-Server)** - HTTP proxy server in C with LRU cache and POSIX threading
 
-#### 🔷 landing pages & templates
+
+
+<details>
+<summary><b>🔷 Landing Pages & Templates (10)</b></summary>
+
+<br>
 
 * **[Mindly AI](https://github.com/Ethan4582/Mindly)** - AI course landing page template.
 * **[Callclarity](https://github.com/Ethan4582/callclarity)** - AI support QA landing page.
@@ -54,6 +59,8 @@
 * **[Streamerzz](https://github.com/Ethan4582/Streamerzz)** - Animated landing page for creators.
 * **[Nike Landing Page](https://github.com/Ethan4582/Nike_landing-Page)** - Modern product showcase experience.
 * **[StoreRate](https://github.com/Ethan4582/StoreRate)** - Store review platform with RBAC.
+
+</details>
 
 #### 🔷 building from zero
 
