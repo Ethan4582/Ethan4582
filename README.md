@@ -18,49 +18,42 @@
 
 #### 🔷 current work
 
-* **[T7Blocks](https://github.com/Ethan4582/T7blocks)** - Premium UI component library helping developers ship polished landing pages faster.
-
-* **[RepoSense](https://github.com/Ethan4582/RepoSense)** - RAG-powered GitHub repository assistant built with LangChain and Gemini.
-
-* **[Blitzr](https://github.com/Ethan4582/Blitzr)** - Production-grade real-time multiplayer chess platform.
-
-* **[dev-rooms](https://github.com/Ethan4582/dev-rooms)** - Real-time collaborative workspace with integrated video conferencing.
-
-* **[t7.chat](https://github.com/Ethan4582/t7.chat)** - Real-time inference logging and observability platform for AI chat applications.
-  
-* **[NoteSprint](https://github.com/Ethan4582/NoteSprint)** - Notes, flashcards, timed sessions, and system design prep in one place.
-
-* **[ChatDrop](https://github.com/Ethan4582/ChatDrop)** - Add a customizable AI chat widget to portfolios, SaaS apps, and docs.
-
-* **[Markd](https://github.com/Ethan4582/markd)** - Visual bookmark manager that replaces folders with rich previews, images, and videos.
-
-* **[LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)** - Chrome extension for advanced LinkedIn search and data extraction.
-
-* **[FocusTube](https://github.com/Ethan4582/FocusTube)** - Browser extension designed to reduce distractions and improve focus on YouTube.
-
-* **[Cluster](https://github.com/Ethan4582/Cluster)** - Kanban productivity platform with activity tracking and team workflows.
-
-* **[Multi-Threaded Proxy Server](https://github.com/Ethan4582/Multi-Threaded-Proxy-Server)** - HTTP proxy server in C with LRU cache and POSIX threading
-
+| Project                                                                                 | Type                   | What it does                                                                          |
+| --------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------- |
+| [T7Blocks](https://github.com/Ethan4582/T7blocks)                                       | UI Library             | Bored of the same old components? Discover premium UI inspired by the web’s best products  |
+| [RepoSense](https://github.com/Ethan4582/RepoSense)                                     | AI Developer Tool      | GitHub repository copilot for code exploration and contextual code retrieval  |
+| [Blitzr](https://github.com/Ethan4582/Blitzr)                                           | Gamming   | High-performance chess platform with matchmaking, ratings, and live gameplay   |
+| [dev-rooms](https://github.com/Ethan4582/dev-rooms)                                     | Dev Tool | Shared developer workspace with real-time collaboration and video conferencing        |
+| [LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)                   | Browser Extension      | Never pay for LinkedIn Premium again  search unlimited profiles |
+| [t7.chat](https://github.com/Ethan4582/t7.chat)                                         | AI Observability       | Inference logging and observability platform for monitoring AI chat applications      |
+| [NoteSprint](https://github.com/Ethan4582/NoteSprint)                                   | Learning Platform      | Notes, flashcards, study sessions, and system design preparation in one workspace     |
+| [ChatDrop](https://github.com/Ethan4582/ChatDrop)                                       | AI Tool           | AI support agent trained on your product, docs, and knowledge base      |
+| [Markd](https://github.com/Ethan4582/markd)                                             | Productivity Tool      | Visual bookmark manager with rich previews, images, videos, and smart organization    |
+| [FocusTube](https://github.com/Ethan4582/FocusTube)                                     | Productivity Extension | YouTube focus extension that removes distractions and improves concentration          |
+| [Cluster](https://github.com/Ethan4582/Cluster)                                         | Project Management     | Kanban-based productivity platform with activity tracking and team workflows          |
+| [Multi-Threaded Proxy Server](https://github.com/Ethan4582/Multi-Threaded-Proxy-Server) | Systems Project        | HTTP proxy server with LRU caching and multithreaded request handling    |
 
 
 <details>
-<summary><b>🔷 Landing Pages & Templates (10)</b></summary>
+<summary><b>Landing Pages & Templates (10)</b></summary>
 
 <br>
 
-* **[Mindly AI](https://github.com/Ethan4582/Mindly)** - AI course landing page template.
-* **[Callclarity](https://github.com/Ethan4582/callclarity)** - AI support QA landing page.
-* **[Vibehouse](https://github.com/Ethan4582/vibehouse)** - Scroll-driven gallery experience for creative projects.
-* **[Astra](https://github.com/Ethan4582/Astra)** - Minimal portfolio template with modern animations.
-* **[BuilderSignal](https://github.com/Ethan4582/BuilderSignal)** - Personal branding template for founders.
-* **[Amber Media](https://github.com/Ethan4582/Amber-Media)** - Cinematic storytelling studio showcase.
-* **[EldoraUI](https://github.com/Ethan4582/EldoraUI)** - SaaS component landing page template.
-* **[Streamerzz](https://github.com/Ethan4582/Streamerzz)** - Animated landing page for creators.
-* **[Nike Landing Page](https://github.com/Ethan4582/Nike_landing-Page)** - Modern product showcase experience.
-* **[StoreRate](https://github.com/Ethan4582/StoreRate)** - Store review platform with RBAC.
+| Project                                                             | Description                                             |
+| ------------------------------------------------------------------- | ------------------------------------------------------- |
+| [Mindly AI](https://github.com/Ethan4582/Mindly)                    | AI course landing page template.                        |
+| [Callclarity](https://github.com/Ethan4582/callclarity)             | AI support QA landing page.                             |
+| [Vibehouse](https://github.com/Ethan4582/vibehouse)                 | Scroll-driven gallery experience for creative projects. |
+| [Astra](https://github.com/Ethan4582/Astra)                         | Minimal portfolio template with modern animations.      |
+| [BuilderSignal](https://github.com/Ethan4582/BuilderSignal)         | Personal branding template for founders.                |
+| [Amber Media](https://github.com/Ethan4582/Amber-Media)             | Cinematic storytelling studio showcase.                 |
+| [EldoraUI](https://github.com/Ethan4582/EldoraUI)                   | SaaS component landing page template.                   |
+| [Streamerzz](https://github.com/Ethan4582/Streamerzz)               | Animated landing page for creators.                     |
+| [Nike Landing Page](https://github.com/Ethan4582/Nike_landing-Page) | Modern product showcase experience.                     |
+| [StoreRate](https://github.com/Ethan4582/StoreRate)                 | Store review platform with RBAC.                        |
 
 </details>
+
 
 #### 🔷 building from zero
 
