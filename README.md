@@ -29,7 +29,7 @@
 | [NoteSprint](https://github.com/Ethan4582/NoteSprint)                                   | Learning Platform      | Notes, flashcards, study sessions, and system design preparation in one workspace     |
 | [ChatDrop](https://github.com/Ethan4582/ChatDrop)                                       | AI Tool           | AI support agent trained on your product, docs, and knowledge base      |
 | [Markd](https://github.com/Ethan4582/markd)                                             | Productivity Tool      | Visual bookmark manager with rich previews, images, videos, and smart organization    |
-| [FocusTube](https://github.com/Ethan4582/FocusTube)                                     | Productivity Extension | YouTube focus extension that removes distractions and improves concentration          |
+| [FocusTube](https://github.com/Ethan4582/FocusTube)                                     | Productivity Extension | A Chrome extension to block distractions on YouTube & X and stay focused       |
 | [Cluster](https://github.com/Ethan4582/Cluster)                                         | Project Management     | Kanban-based productivity platform with activity tracking and team workflows          |
 | [Multi-Threaded Proxy Server](https://github.com/Ethan4582/Multi-Threaded-Proxy-Server) | Systems Project        | HTTP proxy server with LRU caching and multithreaded request handling    |
 
