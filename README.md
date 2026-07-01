@@ -25,6 +25,7 @@
 | [Blitzr](https://github.com/Ethan4582/Blitzr)                                           | Gamming   | High-performance chess platform with matchmaking, ratings, and live gameplay   |
 | [dev-rooms](https://github.com/Ethan4582/dev-rooms)                                     | Dev Tool | Shared developer workspace with real-time collaboration and video conferencing        |
 | [LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)                   | Browser Extension      | Never pay for LinkedIn Premium again  search unlimited profiles |
+| [Job-Automations](https://github.com/Ethan4582/job-automations)                   | Browser Extension · AI Automation    | Automate job applications and repetitive tasks across Naukri, Wellfound, and Workday. |
 | [t7.chat](https://github.com/Ethan4582/t7.chat)                                         | AI Observability       | Inference logging and observability platform for monitoring AI chat applications      |
 | [NoteSprint](https://github.com/Ethan4582/NoteSprint)                                   | Learning Platform      | Notes, flashcards, study sessions, and system design preparation in one workspace     |
 | [ChatDrop](https://github.com/Ethan4582/ChatDrop)                                       | AI Tool           | AI support agent trained on your product, docs, and knowledge base      |
