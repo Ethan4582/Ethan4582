@@ -23,6 +23,7 @@
 | [T7Blocks](https://github.com/Ethan4582/T7blocks)                                       | UI Library             | Bored of the same old components? Discover premium UI inspired by the web’s best products  |
 | [RepoSense](https://github.com/Ethan4582/RepoSense)                                     | AI Developer Tool      | GitHub repository copilot for code exploration and contextual code retrieval  |
 | [Blitzr](https://github.com/Ethan4582/Blitzr)                                           | Gamming   | High-performance chess platform with matchmaking, ratings, and live gameplay   |
+| [Snip](https://github.com/Ethan4582/snip)                                           | Web   | Production-ready URL shortener with edge redirects and analytics.  |
 | [dev-rooms](https://github.com/Ethan4582/dev-rooms)                                     | Dev Tool | Shared developer workspace with real-time collaboration and video conferencing        |
 | [LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)                   | Browser Extension      | Never pay for LinkedIn Premium again  search unlimited profiles |
 | [Job-Automations](https://github.com/Ethan4582/job-automations)                   | Browser Extension · AI Automation    | Automate job applications and repetitive tasks across Naukri, Wellfound, and Workday. |
