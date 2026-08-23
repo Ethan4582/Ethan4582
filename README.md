@@ -7,7 +7,8 @@
   <a href="https://github.com/Ethan4582" target="_blank">github</a> •
   <a href="mailto:singhashirwad2003@gmail.com" target="_blank">email</a> •
    <a href="https://www.linkedin.com/in/ashirwad08singh/" target="_blank">linkedin</a> •
-   <a href="https://x.com/ashirwadsingh_" target="_blank">x</a>
+   <a href="https://x.com/ashirwadsingh_" target="_blank">x</a> •
+   <a href="https://substack.com/@ashirwadsingh" target="_blank">substack</a>
 </p>
 
 ---
