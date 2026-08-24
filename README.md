@@ -29,7 +29,7 @@
 | [LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)                   | Browser Extension      | Never pay for LinkedIn Premium again  search unlimited profiles |
 | [Job-Automations](https://github.com/Ethan4582/job-automations)                   | Browser Extension · AI Automation    | Automate job applications and repetitive tasks across Naukri, Wellfound, and Workday. |
 | [t7.chat](https://github.com/Ethan4582/t7.chat)                                         | AI Observability       | Inference logging and observability platform for monitoring AI chat applications      |
-| [NoteSprint](https://github.com/Ethan4582/NoteSprint)                                   | Learning Platform      | Notes, flashcards, study sessions, and system design preparation in one workspace     |
+| [NoteSprint](https://github.com/Ethan4582/NotesSprint)                                   | Learning Platform      | Notes, flashcards, study sessions, and system design preparation in one workspace     |
 | [ChatDrop](https://github.com/Ethan4582/ChatDrop)                                       | AI Tool           | AI support agent trained on your product, docs, and knowledge base      |
 | [Markd](https://github.com/Ethan4582/markd)                                             | Productivity Tool      | Visual bookmark manager with rich previews, images, videos, and smart organization    |
 | [FocusTube](https://github.com/Ethan4582/FocusTube)                                     | Productivity Extension | A Chrome extension to block distractions on YouTube & X and stay focused       |
