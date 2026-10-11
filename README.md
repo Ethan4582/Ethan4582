@@ -68,8 +68,3 @@ I'm a full-stack developer building products, developer tools, and AI-powered ap
 * **Developer Tools**: Creating products that improve developer productivity and workflows.
 * **Full-Stack Architecture**: Designing scalable applications from database to UI.
 * **Performance Engineering**: Optimizing modern web applications for speed and user experience.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/views-Ethan4582-blueviolet?style=flat-square" alt="Views" />
-</p>
-
