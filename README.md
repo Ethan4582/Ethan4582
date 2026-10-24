@@ -21,8 +21,8 @@
 
 | Project                                                                                 | Type                   | What it does                                                                          |
 | --------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------- |
+| [RepoSense](https://github.com/Ethan4582/RepoSense)                                     | AI Developer Tool      | Turn any GitHub repo into instant documentation and smart chat |
 | [T7Blocks](https://github.com/Ethan4582/T7blocks)                                       | UI Library             | Bored of the same old components? Discover premium UI inspired by the web’s best products  |
-| [RepoSense](https://github.com/Ethan4582/RepoSense)                                     | AI Developer Tool      | GitHub repository copilot for code exploration and contextual code retrieval  |
 | [Blitzr](https://github.com/Ethan4582/Blitzr)                                           | Gamming   | High-performance chess platform with matchmaking, ratings, and live gameplay   |
 | [Snip](https://github.com/Ethan4582/snip)                                           | Web   | Production-ready URL shortener with edge redirects and analytics.  |
 | [dev-rooms](https://github.com/Ethan4582/dev-rooms)                                     | Dev Tool | Shared developer workspace with real-time collaboration and video conferencing        |
