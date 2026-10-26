@@ -22,16 +22,15 @@
 | Project                                                                                 | Type                   | What it does                                                                          |
 | --------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------- |
 | [RepoSense](https://github.com/Ethan4582/RepoSense)                                     | AI Developer Tool      | Turn any GitHub repo into instant documentation and smart chat |
-| [T7Blocks](https://github.com/Ethan4582/T7blocks)                                       | UI Library             | Bored of the same old components? Discover premium UI inspired by the web’s best products  |
-| [Blitzr](https://github.com/Ethan4582/Blitzr)                                           | Gamming   | High-performance chess platform with matchmaking, ratings, and live gameplay   |
+| [Mediq](https://github.com/Ethan4582/mediq)                                     | AI Developer Tool      | Turns handwritten clinical, handwritten notes, scans, and lab reports into structured discharge summaries  |
 | [Snip](https://github.com/Ethan4582/snip)                                           | Web   | Production-ready URL shortener with edge redirects and analytics.  |
+| [Blitzr](https://github.com/Ethan4582/Blitzr)                                           | Gamming   | High-performance chess platform with matchmaking, ratings, and live gameplay   |
+| [T7Blocks](https://github.com/Ethan4582/T7blocks)                                       | UI Library             | Bored of the same old components? Discover premium UI inspired by the web’s best products  |
 | [dev-rooms](https://github.com/Ethan4582/dev-rooms)                                     | Dev Tool | Shared developer workspace with real-time collaboration and video conferencing        |
 | [LinkedIn Extractor](https://github.com/Ethan4582/linkedin-extractor)                   | Browser Extension      | Never pay for LinkedIn Premium again  search unlimited profiles |
 | [Job-Automations](https://github.com/Ethan4582/job-automations)                   | Browser Extension · AI Automation    | Automate job applications and repetitive tasks across Naukri, Wellfound, and Workday. |
 | [t7.chat](https://github.com/Ethan4582/t7.chat)                                         | AI Observability       | Inference logging and observability platform for monitoring AI chat applications      |
 | [NoteSprint](https://github.com/Ethan4582/NotesSprint)                                   | Learning Platform      | Notes, flashcards, study sessions, and system design preparation in one workspace     |
-| [ChatDrop](https://github.com/Ethan4582/ChatDrop)                                       | AI Tool           | AI support agent trained on your product, docs, and knowledge base      |
-| [Markd](https://github.com/Ethan4582/markd)                                             | Productivity Tool      | Visual bookmark manager with rich previews, images, videos, and smart organization    |
 | [FocusTube](https://github.com/Ethan4582/FocusTube)                                     | Productivity Extension | A Chrome extension to block distractions on YouTube & X and stay focused       |
 | [Cluster](https://github.com/Ethan4582/Cluster)                                         | Project Management     | Kanban-based productivity platform with activity tracking and team workflows          |
 | [Multi-Threaded Proxy Server](https://github.com/Ethan4582/Multi-Threaded-Proxy-Server) | Systems Project        | HTTP proxy server with LRU caching and multithreaded request handling    |
