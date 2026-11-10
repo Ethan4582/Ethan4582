@@ -55,15 +55,3 @@
 | [StoreRate](https://github.com/Ethan4582/StoreRate)                 | Store review platform with RBAC.                        |
 
 </details>
-
-
-#### 🔷 building from zero
-
-I'm a full-stack developer building products, developer tools, and AI-powered applications. I enjoy taking ideas from zero to production, focusing on clean user experiences, scalable systems, and practical solutions. If I need it, I build it. If I repeat it, I automate it.
-
-#### 🔷 currently exploring
-
-* **AI Systems**: Building production-ready AI workflows, RAG systems, and developer-focused AI tools.
-* **Developer Tools**: Creating products that improve developer productivity and workflows.
-* **Full-Stack Architecture**: Designing scalable applications from database to UI.
-* **Performance Engineering**: Optimizing modern web applications for speed and user experience.
